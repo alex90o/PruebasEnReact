@@ -68,7 +68,7 @@ function App (){
       <Route path = "/elperro"><ElPerro/></Route>
     </Switch>
     <div> 
-      <Imagen1/>
+    {/*  <Imagen1/>*/}
     </div>
     </Router>
  

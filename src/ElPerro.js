@@ -24,7 +24,7 @@ export default function ElPerro(){
             En 2001, se estimaba que había 400 millones de perros en el mundo.
             </p> 
             <br />
-            <br />
+           
             <h2>Ancestros e historia de la domesticación</h2>
             <p>En el siglo XXI, los investigadores han alcanzado un consenso casi absoluto acerca de que es muy posible que la domesticación del perro empezara más por la adaptación espontánea de este al acercarse a vivir junto al hombre que por la voluntad humana.8 
             Esto se debe a que vivir junto al hombre siempre fue ventajoso para el cánido. Un perro viviendo en una comunidad humana, aún en la Antigüedad, podía alimentarse
@@ -45,7 +45,15 @@ export default function ElPerro(){
             <h1>Características </h1>
             <h2><span id="Diferencias_respecto_a_otros_c.C3.A1nidos">Diferencias respecto a otros cánidos</span>
             </h2>
-            <p>En comparación con lobos de tamaño equivalente, los perros tienden a tener el cráneo un 20% más pequeño y el cerebro un 10% más pequeño, además de tener los dientes relativamente más pequeños que otras especies de cánidos.11 Los perros requieren menos calorías para vivir que los lobos. Su dieta de sobras de los humanos hizo que sus cerebros grandes y los músculos mandibulares utilizados en la caza dejaran de ser necesarios. Algunos expertos piensan que las orejas flácidas de los perros son el resultado de la atrofia de los músculos mandibulares.11 La piel de los perros domésticos tiende a ser más gruesa que la de los lobos y algunas tribus esquimales prefieren su piel para vestirse, debido a su resistencia al desgaste en un clima inhóspito.11 A diferencia de los lobos, pero al igual que los coyotes, los perros domésticos tienen glándulas sudoríparas en las almohadillas de las patas.11 Las patas de un perro son aproximadamente la mitad de las de un lobo y su cola tiende a curvarse hacia arriba, otro rasgo que no se observa en los lobos. </p>
+            <p>En comparación con lobos de tamaño equivalente, los perros tienden a tener el cráneo un 20% más pequeño y el cerebro un 10% más pequeño, además de tener los dientes relativamente más pequeños que otras especies de cánidos.11 Los perros requieren menos calorías para vivir que los lobos. 
+            Su dieta de sobras de los humanos hizo que sus cerebros grandes y los músculos mandibulares utilizados en la caza dejaran de ser necesarios. 
+            Algunos expertos piensan que las orejas flácidas de los perros son el resultado de la atrofia de los músculos mandibulares.
+            11 La piel de los perros domésticos tiende a ser más gruesa que la de los lobos y algunas tribus esquimales prefieren su piel para vestirse, debido a su resistencia al desgaste en un clima inhóspito.11 A diferencia de los lobos, pero al igual que los coyotes, los perros domésticos tienen glándulas sudoríparas en las almohadillas de las patas.
+            11 Las patas de un perro son aproximadamente la mitad de las de un lobo y su cola tiende a curvarse hacia arriba, otro rasgo que no se observa en los lobos. </p>
+            <h2>Anatomía externa </h2>
+            <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Anatomy_dog.png/220px-Anatomy_dog.png" width="224" height="151"></img>
+            <p>Diagrama  de la anatomía general de un perro: 1. frente, 2. hocico, 3. barboquejo, 4.  hombro, 5. codo, 6. pata anterior, 7. punto más alto de la grupa, 8. muslo, 9.  corvejón, 10. patas traseras, 11. cruceta, 12. babilla, 13. patas, 14. cola</p>
+            </p>
         </div>
     )
 }
