@@ -1,3 +1,4 @@
+import img from '../src/Imagenes/piedepagina_s1.gif';
 export default function ElPerro(){
     return (
         <div>
@@ -52,8 +53,40 @@ export default function ElPerro(){
             11 Las patas de un perro son aproximadamente la mitad de las de un lobo y su cola tiende a curvarse hacia arriba, otro rasgo que no se observa en los lobos. </p>
             <h2>Anatomía externa </h2>
             <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Anatomy_dog.png/220px-Anatomy_dog.png" width="224" height="151"></img>
-            <p>Diagrama  de la anatomía general de un perro: 1. frente, 2. hocico, 3. barboquejo, 4.  hombro, 5. codo, 6. pata anterior, 7. punto más alto de la grupa, 8. muslo, 9.  corvejón, 10. patas traseras, 11. cruceta, 12. babilla, 13. patas, 14. cola</p>
+            <p><h5 Style="color: yellow">Diagrama  de la anatomía general de un perro:</h5> 
+            
+            1. frente, 2. hocico, 3. barboquejo, 4.  hombro, 5. codo, 6. pata anterior, 
+            <br/>
+            7. punto más alto de la grupa, 8. muslo, 9.  corvejón, 10. patas traseras, 11. cruceta, 12. babilla, 13. patas, 14. cola</p>
             </p>
+            <p>
+            "La enorme variedad de morfologías en las diferentes razas de perro hace difícil determinar el tamaño y el peso medios de los perros. 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Dane_and_Chihuahua_Skeletons.jpg/220px-Great_Dane_and_Chihuahua_Skeletons.jpg" width="224" height="224" align="right" Style="border-radius: 20px"></img>
+            Con una altura de entre 71 y 90 cm, el galgo irlandés es la raza más alta de perro13 —aunque algunos ejemplares de gran danaaaaaaaaés superan este tamaño, llegando hasta 107 cm—.
+            14 La raza más pequeña de perro es el chihuahua, con un tamaño de 15-25 cm en la cruz. Con un peso medio de entre 1,5 y 3 kilogramos —y que en algunos casos, puede no superar los 500 g—,
+            15 los chihuahuas también son los perros más ligeros, los mastines ingleses y los san bernardos son los perros más pesados, con un peso que puede llegar a más de 75 ú 80 kg.
+            16 La longevidad de los perros varía de una raza a otra, pero en general las razas más pequeñas viven más tiempo que las más grandes. Los perros más pequeños a menudo viven hasta la edad de quince o dieciséis años, mientras que los perros más grandes pueden tener una esperanza de vida de sólo la mitad. 
+            En medio se encuentran todas las razas intermedias. El perro más viejo del que se tiene constancia, un Boyero australiano llamadoBluey, murió en el año 1939 a la edad de veintinueve años.
+            17 La esterilización del animal puede prolongar o acortar su vida, reduciendo el riesgo de contraer enfermedades como piometría en la hembra o cáncer testicular en el macho. 
+            También reduce el riesgo de accidentes y heridas, pues los perros no esterilizados se pelean y se escapan más. Por otro lado, la castración del macho favorece la aparición de cáncer de próstata, una enfermedad que puede acortar drásticamente la vida del animal.
+            18 Pelaje Al igual que los lobos, los perros tienen un pelaje, una capa de pelos que los cubre el cuerpo. El pelaje de un perro puede ser un «pelaje doble», compuesto de una capa inferior suave y una capa superior basta. 
+            A diferencia de los lobos, los perros pueden tener un «pelaje único», carente de capa inferior. Los perros con un pelaje doble, como los lobos, están adaptados para sobrevivir en temperaturas frías y tienden a provenir de climas más fríos. Los perros suelen presentar vestigios de contrasombreado, un patrón de camuflaje natural común. La base general del contrasombreado es que un animal iluminado desde arriba aparece más claro en la mitad superior y más oscuro en la mitad inferior, donde normalmente tiene su propio color.19 20 Este es un patrón que los predadores pueden aprender a reconocer. Un animal contrasombreado tiene una coloración oscura en la superficie superior y una coloración oscura en la inferior. Esto reduce la visibilidad general del animal. Un vestigio de este patrón es que muchas razas tienen un lado, una raya o una estrella de pelaje blanco en el pecho o en la parte inferior. 
+            </p>
+            <h2>Cola </h2>
+            <p>
+            Hay muchas formas diferentes de cola de perro: recta, recta hacia arriba, forma de hoz, rizada o en tirabuzón. En algunas razas, la cola es cortada tradicionalmente para evitar heridas, especialmente en los perros de caza. En algunas razas, algunos cachorros nacen con una cola corta o sin cola. 
+            Esto sucede más a menudo en ciertas razas, especialmente en aquellas en las que a menudo se corta la cola y que por tanto no tienen estándar de raza en cuanto a la cola.
+            </p>
+            <h2>Aparato locomotor</h2>
+            <p>
+            Como la mayoría de mamíferos predadores, el perro tiene músculos potentes, un sistema cardiovascular que permite una alta velocidad y una gran resistencia y dientes para cazar, aguantar y desgarrar las presas. 
+            El esqueleto ancestral de los perros les permite correr y saltar. Sus patas se han desarrollado para impulsarlos rápidamente hacia delante, saltando cuando es necesario, con el fin de cazar y atrapar las presas. 
+            Por tanto, tienen pies pequeños y apretados y caminan sobre los dedos (digitígrados). Sus patas traseras son bastante rígidas y sólidas, mientras que las anteriores son laxas y flexibles, estando unidas al tronco únicamente por músculos. 
+            Aunque la cría selectiva ha cambiado la apariencia de muchas razas, todos los perros conservan los elementos básicos de sus antepasados. Los perros tienen omóplatos desconectados —carecen de clavícula— que permiten hacer zancadas más largas. 
+            La mayoría de razas conservan las garras vestigiales —espuelas— en las patas anteriores y a veces en las posteriores. Algunas de estas razas, como el perro pastor catalán, pueden presentar un espolón doble en una o más patas. 
+            En algunos casos, se les quitan esas garras para evitar que el animal se las arranque sin querer durante la persecución de una presa, pero esta práctica es ilegal en algunos países.
+            </p>
+
         </div>
     )
 }
