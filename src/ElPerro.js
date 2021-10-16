@@ -19,7 +19,7 @@ export default function ElPerro(){
             Tienen una gran relación con los humanos, para quien son animales de compañía, animales de guardia, perros de trabajo, perros de caza, perros de aguas, galgos de carrera, perros guía, perros pastores o perros boyeros por ejemplo. 
             En 2001, se estimaba que había 400 millones de perros en el mundo.
             </p> 
-            <h2>Ancestros  e historia de la domesticación </h2>
+            <h2>Ancestros e historia de la domesticación </h2>
             <p>En el siglo XXI, los investigadores han alcanzado un consenso casi absoluto acerca de que es muy posible que la domesticación del perro empezara más por la adaptación espontánea de este al acercarse a vivir junto al hombre que por la voluntad humana.8 
             Esto se debe a que vivir junto al hombre siempre fue ventajoso para el cánido. Un perro viviendo en una comunidad humana, aún en la Antigüedad, podía alimentarse
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cave_canem.JPG/220px-Cave_canem.JPG" alt="" width="226" height="288" align="right"></img>
@@ -36,6 +36,10 @@ export default function ElPerro(){
             en zonas del Oriente Medio el perro ha sido asociado por su aspecto con los chacales —de hecho científicamente se creyó hasta el desarrollo de la genética a fines del siglo XX que los perros comunes de todo el mundo eran descendientes de chacales— y al ser los chacales animales principalmente carroñeros, los perros también han sido considerados impuros en esa zona. 
             Quizás la única especie de perro que no desciende del lobo es el perro fueguino que descendería del culpeo. </p>
             
+            <h1>Características </h1>
+            <h2><span id="Diferencias_respecto_a_otros_c.C3.A1nidos">Diferencias respecto a otros cánidos</span>
+            </h2>
+            <p>En comparación con lobos de tamaño equivalente, los perros tienden a tener el cráneo un 20% más pequeño y el cerebro un 10% más pequeño, además de tener los dientes relativamente más pequeños que otras especies de cánidos.11 Los perros requieren menos calorías para vivir que los lobos. Su dieta de sobras de los humanos hizo que sus cerebros grandes y los músculos mandibulares utilizados en la caza dejaran de ser necesarios. Algunos expertos piensan que las orejas flácidas de los perros son el resultado de la atrofia de los músculos mandibulares.11 La piel de los perros domésticos tiende a ser más gruesa que la de los lobos y algunas tribus esquimales prefieren su piel para vestirse, debido a su resistencia al desgaste en un clima inhóspito.11 A diferencia de los lobos, pero al igual que los coyotes, los perros domésticos tienen glándulas sudoríparas en las almohadillas de las patas.11 Las patas de un perro son aproximadamente la mitad de las de un lobo y su cola tiende a curvarse hacia arriba, otro rasgo que no se observa en los lobos. </p>
         </div>
     )
 }
