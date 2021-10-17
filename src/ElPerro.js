@@ -1,4 +1,4 @@
-import img from '../src/Imagenes/piedepagina_s1.gif';
+import logo2 from '../src/Imagenes/piedepagina_s1.gif';
 export default function ElPerro(){
     return (
         <div>
@@ -61,7 +61,7 @@ export default function ElPerro(){
             </p>
             <p>
             "La enorme variedad de morfologías en las diferentes razas de perro hace difícil determinar el tamaño y el peso medios de los perros. 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Dane_and_Chihuahua_Skeletons.jpg/220px-Great_Dane_and_Chihuahua_Skeletons.jpg" width="224" height="224" align="right" Style="border-radius: 20px"></img>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Dane_and_Chihuahua_Skeletons.jpg/220px-Great_Dane_and_Chihuahua_Skeletons.jpg" width="200" height="200" align="right" Style="border-radius: 20px"></img>
             Con una altura de entre 71 y 90 cm, el galgo irlandés es la raza más alta de perro13 —aunque algunos ejemplares de gran danaaaaaaaaés superan este tamaño, llegando hasta 107 cm—.
             14 La raza más pequeña de perro es el chihuahua, con un tamaño de 15-25 cm en la cruz. Con un peso medio de entre 1,5 y 3 kilogramos —y que en algunos casos, puede no superar los 500 g—,
             15 los chihuahuas también son los perros más ligeros, los mastines ingleses y los san bernardos son los perros más pesados, con un peso que puede llegar a más de 75 ú 80 kg.
@@ -72,6 +72,8 @@ export default function ElPerro(){
             18 Pelaje Al igual que los lobos, los perros tienen un pelaje, una capa de pelos que los cubre el cuerpo. El pelaje de un perro puede ser un «pelaje doble», compuesto de una capa inferior suave y una capa superior basta. 
             A diferencia de los lobos, los perros pueden tener un «pelaje único», carente de capa inferior. Los perros con un pelaje doble, como los lobos, están adaptados para sobrevivir en temperaturas frías y tienden a provenir de climas más fríos. Los perros suelen presentar vestigios de contrasombreado, un patrón de camuflaje natural común. La base general del contrasombreado es que un animal iluminado desde arriba aparece más claro en la mitad superior y más oscuro en la mitad inferior, donde normalmente tiene su propio color.19 20 Este es un patrón que los predadores pueden aprender a reconocer. Un animal contrasombreado tiene una coloración oscura en la superficie superior y una coloración oscura en la inferior. Esto reduce la visibilidad general del animal. Un vestigio de este patrón es que muchas razas tienen un lado, una raya o una estrella de pelaje blanco en el pecho o en la parte inferior. 
             </p>
+            <br/>
+            
             <h2>Cola </h2>
             <p>
             Hay muchas formas diferentes de cola de perro: recta, recta hacia arriba, forma de hoz, rizada o en tirabuzón. En algunas razas, la cola es cortada tradicionalmente para evitar heridas, especialmente en los perros de caza. En algunas razas, algunos cachorros nacen con una cola corta o sin cola. 
@@ -86,6 +88,9 @@ export default function ElPerro(){
             La mayoría de razas conservan las garras vestigiales —espuelas— en las patas anteriores y a veces en las posteriores. Algunas de estas razas, como el perro pastor catalán, pueden presentar un espolón doble en una o más patas. 
             En algunos casos, se les quitan esas garras para evitar que el animal se las arranque sin querer durante la persecución de una presa, pero esta práctica es ilegal en algunos países.
             </p>
+        <div className="logo" >
+          <img src={logo2} height="50" class="col-12"></img>
+          </div>
 
         </div>
     )

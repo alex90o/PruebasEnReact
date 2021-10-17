@@ -50,7 +50,7 @@ function App (){
     <Header/>
     </div>
       {/*crear Hipervinculos */}
-      <nav  class="navbar navbar-dark bg-dark text-center col-xs-12 "> 
+      <nav  class="navbar navbar-dark bg-dark text-center col-xs-12"> 
         <Link  to="/">Home</Link>
         <Link to="/servicios">Servicios</Link> 
         <Link to="/contacto">Contacto</Link> 
