@@ -50,14 +50,15 @@ function App (){
     <Header/>
     </div>
       {/*crear Hipervinculos */}
-      <nav  class="navbar navbar-dark bg-dark text-center col-xs-12"> 
-        <Link  to="/">Home</Link>
-        <Link to="/servicios">Servicios</Link> 
-        <Link to="/contacto">Contacto</Link> 
-        <Link to="/historia">Historia</Link> 
-        <Link to="/elperro">El Perro</Link>
-      </nav>
+      
     </div>
+    <nav  className="navbar navbar-dark bg-dark justify-content-center col-xs-12 active text-center"> 
+        <Link  to="/">Home</Link>
+        <Link to="/servicios" className="nav-item nav-link">Servicios</Link> 
+        <Link to="/contacto" className="nav-item nav-link">Contacto</Link> 
+        <Link to="/historia" className="nav-item nav-link">Historia</Link> 
+        <Link to="/elperro" className="nav-item nav-link">El Perro</Link>
+    </nav>
   
     {/*crear las rutas */}
     <Switch>

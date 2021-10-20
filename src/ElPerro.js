@@ -88,7 +88,7 @@ export default function ElPerro(){
             La mayoría de razas conservan las garras vestigiales —espuelas— en las patas anteriores y a veces en las posteriores. Algunas de estas razas, como el perro pastor catalán, pueden presentar un espolón doble en una o más patas. 
             En algunos casos, se les quitan esas garras para evitar que el animal se las arranque sin querer durante la persecución de una presa, pero esta práctica es ilegal en algunos países.
             </p>
-        <div className="logo" >
+        <div className="logo" class="footer">
           <img src={logo2} height="50" class="col-12"></img>
           </div>
 
