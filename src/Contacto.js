@@ -37,7 +37,8 @@ return (
             <td><textarea name="consulta" id="consulta" cols="50" rows="7"></textarea></td>
           </tr>
           <tr>
-            <td><input type="submit" name="boton" id="boton" value="Enviar" /></td>
+            <td>< input type="submit" name="boton" id="boton"  value="Enviar" /></td>
+            <td>&nbsp;</td>
             <td>&nbsp;</td>
           </tr>
         </table>

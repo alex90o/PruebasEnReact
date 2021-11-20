@@ -53,7 +53,7 @@ function App (){
       
     </div>
     <nav  className="navbar navbar-dark bg-dark justify-content-center col-xs-12 active text-center"> 
-        <Link  to="/">Home</Link>
+        <Link  to="/" className="nav-item nav-link">Home</Link>
         <Link to="/servicios" className="nav-item nav-link">Servicios</Link> 
         <Link to="/contacto" className="nav-item nav-link">Contacto</Link> 
         <Link to="/historia" className="nav-item nav-link">Historia</Link> 
